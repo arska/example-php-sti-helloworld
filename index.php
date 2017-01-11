@@ -54,7 +54,7 @@
 
       <div class="starter-template">
         <h1>Hallo <?php echo 'APPUiO'?></h1>
-        <p class="lead">Welcome to the APPUiO Launch Event. Hoihoi ufirst</p>
+        <p class="lead">Welcome to the APPUiO Launch Event. Hoihoi magento</p>
       </div>
 
     </div><!-- /.container -->
